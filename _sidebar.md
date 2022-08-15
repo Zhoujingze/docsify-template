@@ -1,6 +1,5 @@
 * 使用帮助
-  * [快速开始](/docs/quickstart.md)
+  * [Python](/docs/python/README.md)
 
-* [在线工具](/tools/README.md)
 
 
