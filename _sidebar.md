@@ -2,7 +2,6 @@
   * [Python](/docs/python/README.md)
   * [C语言](/docs/c/README.md)
   * [C++](/docs/cpp/README.md)
-  * [Java](/docs/java/README.md)
 
 
 
